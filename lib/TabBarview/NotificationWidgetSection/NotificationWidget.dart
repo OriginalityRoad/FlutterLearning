@@ -17,7 +17,7 @@ class NotificationWidgetState extends State<NotificationWidget> {
     // TODO: implement initState
 //    super.initState();
     Iterable<String> alble =
-        {"基本通知", "通知传参", "基本通知", "基本通知",} as Iterable<String>;
+        {"基本通知", "通2333知传参", "基本通知", "基本通知",} as Iterable<String>;
 
     list.addAll({"基本通知", "通知传参", "基本通知1", "基本通知12",});
 
